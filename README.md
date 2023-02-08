@@ -6,3 +6,4 @@ We have the following files :
 - One to write data to a BigQuery Dataset by subscribing to the Pub/Sub topic
 - A last script where we create the view for the dashboard in Looker Studio
 
+![alt text](https://github.com/rbgt/gcp_pipeline/blob/master/batch_pipeline.jpg)
